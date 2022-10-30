@@ -1,0 +1,166 @@
+body {
+  background-image: url(img/kosmos-planety-zvezda-2875.jpg);
+}
+/* Space table*/
+.space-table {
+  width: 932px;
+  margin: 150px auto 0 auto;
+}
+
+/* Block-about*/
+
+.space-img {
+  width: 614px;
+  height: 400px;
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.space-img img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.space-content {
+  background-color: white;
+  font-family: Impact;
+  text-transform: uppercase;
+  font-size: 28px;
+  line-height: 3;
+  font-weight: bolder;
+  width: 300px;
+  height: 400px;
+  border: 2px solid black;
+  border-radius: 5px;
+  float: right;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style-type: none;
+  text-align: center;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+li a:hover {
+  background-color: black;
+  color: white;
+  width: 100px;
+  padding: 1px 50px;
+  border-radius: 15px;
+}
+
+/* Block-news*/
+.block-news {
+  margin-top: 10px;
+}
+.block-news a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+.block-news a:hover {
+  text-decoration: underline;
+}
+.block-news img {
+  margin: 10px 21px;
+}
+
+.news-1 {
+  width: 300px;
+  height: 220px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: white;
+  float: left;
+}
+
+.news-2 {
+  width: 300px;
+  height: 220px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: inline-block;
+}
+.news-3 {
+  width: 300px;
+  height: 220px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: white;
+  display: inline-block;
+  float: right;
+}
+/* advertising */
+.advertising {
+  width: 930px;
+  height: 250px;
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  background-color: white;
+  border: 2px solid #333;
+  border-radius: 5px;
+}
+/* Social-networks */ 
+
+.social-networks {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  
+}
+.tesla  {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin-left: 15px;
+  background-image: url(img/tesla-logo-1-150x150.png);
+}
+.twitter {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin-left: 15px;
+  background-image: url(img/twitter-bird-150x150.png);
+}
+.facebok {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin-left: 15px;
+  background-image: url(img/facebook-text-icon-vector-150x150.png);
+}
+.paypal {
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin-left: 15px;
+  background-image: url(img/icon_6.png);
+}
+.tesla:hover  {
+  background-image: url(img/hs-emp-logo-data-.png);
+}
+.twitter:hover {
+  
+  background-image: url(img/twitter_topic.png);
+}
+.facebok:hover {
+  
+  background-image: url(img/facebook-logo.png);
+}
+.paypal:hover{
+  
+  background-image: url(img/paypalicon-150x150.png);
+}

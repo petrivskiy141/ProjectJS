@@ -1,0 +1,291 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 25px;
+}
+task-3 {
+  width: 1000px;
+  height: auto;
+}
+.header {
+  width: 1000px;
+  height: 200px;
+  background-color: #faebd6;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+.brown {
+  height: 100px;
+  width: 80%;
+  background-color: #d1b48c;
+  margin: 0 auto;
+  padding-top: 1px;
+}
+.title {
+  width: 40%;
+  height: 40%;
+  background-color: #feffef;
+  margin: 0 auto 0;
+  font-size: 25px;
+}
+
+/*Navbar*/
+.navbar {
+  width: 1000px;
+  height: 150px;
+  background-color: black;
+  margin: 0 auto;
+}
+.nav-green {
+  width: 200px;
+  height: 150px;
+  float: left;
+  background-color: #5e9ea0;
+}
+.nav-blue {
+  width: 200px;
+  height: 150px;
+  float: left;
+  background-color: #6395ec;
+}
+.nav-yellow {
+  width: 200px;
+  height: 150px;
+  float: left;
+  background-color: #f5deb4;
+}
+.nav-pink {
+  width: 200px;
+  height: 150px;
+  float: left;
+  background-color: #f0807f;
+}
+.nav-violet {
+  width: 200px;
+  height: 150px;
+  float: left;
+  background-color: #4b0081;
+}
+/* Body */
+
+.body {
+  width: 1000px;
+  height: 400px;
+  background-color: black;
+  margin: 0 auto;
+}
+.text-1 {
+  width: 333px;
+  height: 400px;
+  background-color: #007d02;
+  float: left;
+}
+.text-ABCD {
+  width: 333px;
+  height: 400px;
+  background-color: rgb(4, 113, 202);
+  float: left;
+}
+.text-XV {
+  width: 334px;
+  height: 400px;
+  background-color: #dda0dc;
+  float: left;
+}
+
+/* Text-gray */
+
+.text-gray {
+  width: 50%;
+  height: 60px;
+  background-color: #c0c0c0;
+  margin: 15px auto;
+  padding-top: 20px;
+}
+.red-3 {
+  width: 40%;
+  height: 290px;
+  background-color: #880203;
+  margin: 10px auto;
+}
+.red-3 p {
+  margin: 0;
+  padding: 0;
+}
+.pink-4 {
+  width: 50%;
+  height: 200px;
+  background-color: #fa8071;
+  margin: 61px auto;
+  float: left;
+}
+.yellow-5 {
+  width: 50%;
+  height: 200px;
+  background-color: #bdb76b;
+  margin: 61px auto;
+  float: left;
+}
+
+/* text-A */
+.text-a {
+  width: 100%;
+  height: 35px;
+  background-color: #008081;
+}
+.text-b {
+  height: 365px;
+  width: 111px;
+  float: left;
+  background-color: #68cab1;
+}
+.text-b p {
+  margin: 0;
+  padding: 0;
+}
+.text-b1 {
+  width: 50%;
+  height: 300px;
+  background-color: #a52b2a;
+  float: left;
+  margin-top: 36px;
+}
+.text-b2 {
+  width: 50%;
+  height: 130px;
+  background-color: #b0ff2a;
+  float: left;
+  margin-top: 206px;
+}
+.text-c1 {
+  height: 100px;
+  width: 111px;
+  float: left;
+  background-color: #009e77;
+}
+.text-c2 {
+  height: 100px;
+  width: 111px;
+  margin-top: 45px;
+  background-color: #01008a;
+}
+.text-c3 {
+  height: 100px;
+  width: 111px;
+  margin-top: px;
+  background-color: #8f0094;
+}
+.text-c4 {
+  width: 50%;
+  height: 91px;
+  background-color: #fdf6e6;
+  float: left;
+}
+.text-c5 {
+  width: 50%;
+  height: 91px;
+  background-color: #fa8071;
+  float: left;
+}
+.text-d {
+  height: 100px;
+  width: 111px;
+  float: left;
+  background-color: #3fe0d0;
+}
+.text-d1 {
+  height: 100px;
+  width: 111px;
+  margin-top: 45px;
+  background-color: #008081;
+}
+.text-d3 {
+  height: 191px;
+  background-color: #fedead;
+}
+.text-d3 p {
+  padding: 0;
+  margin: 0;
+}
+
+/* TEXT-XV */
+
+.text-I {
+  width: 33%;
+  height: 35px;
+  background-color: #91ba8e;
+  float: left;
+}
+.text-II {
+  width: 33%;
+  height: 35px;
+  background-color: #da6fd7;
+  float: left;
+}
+.text-III {
+  width: 34%;
+  height: 35px;
+  background-color: #ff7e4b;
+  float: left;
+}
+.text-IV {
+  width: 100%;
+  height: 50px;
+  background-color: #faf0e6;
+  padding-top: 50px;
+}
+.text-V {
+  width: 40%;
+  height: 30px;
+  margin: 0 auto;
+  background-color: #ff0000;
+  overflow: hidden;
+}
+.black-block {
+  width: 40px;
+  height: 20px;
+  background-color: black;
+  margin: 15px auto;
+}
+.text-VI {
+  width: 100%;
+  height: 70px;
+  background-color: #dcdcdc;
+}
+.text-VII {
+  width: 33%;
+  height: 230px;
+  background-color: #2f4f4e;
+  float: left;
+}
+.text-VIII {
+  width: 67%;
+  height: 70px;
+  background-color: #708090;
+  float: left;
+}
+.text-IX {
+  width: 33%;
+  height: 70px;
+  background-color: #8a2ae6;
+  float: right;
+}
+.text-X {
+  width: 34%;
+  height: 70px;
+  background-color: #fbf9d0;
+  float: right;
+}
+.text-XI {
+  background-color: 696969;
+  float: right;
+  width: 223px;
+  height: 90px;
+}
+/* Footer */
+.footer {
+  width: 1000px;
+  height: 180px;
+  background-color: #696969;
+  margin: 0 auto;
+}
